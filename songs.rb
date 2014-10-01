@@ -1,1 +1,1 @@
-songs = [ "Bad by Michael Jackson" ]
+songs = [ "Bad by Michael Jackson", "Bang Bang by Jesse J" ]
